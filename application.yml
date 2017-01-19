@@ -17,4 +17,4 @@ spring: # <---NEW SECTION
       registrationMethod: direct
 
 billing:
-  queue: billin-queue
+  queue: billing-queue
